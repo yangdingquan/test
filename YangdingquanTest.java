@@ -33,7 +33,7 @@ public class YangdingquanTest {
 		System.out.println(temp.length());
 		//未使用变量
 		int length=a.length;
-		for(index=0; index&a.length; index++)
+		for(index=0; index < a.length; index++)
 		{
 			//多余的if语句
 			if(true)
